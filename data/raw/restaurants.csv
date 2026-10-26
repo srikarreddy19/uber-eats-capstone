@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,category,city,restaurant_rating,avg_preparation_time
+R001,Restaurant_1,Italian,Chennai,4.4,13
+R002,Restaurant_2,Chinese,Chennai,4.0,11
+R003,Restaurant_3,Italian,Bengaluru,4.0,39
+R004,Restaurant_4,Indian,Bengaluru,3.7,34
+R005,Restaurant_5,Indian,Chennai,3.5,22
+R006,Restaurant_6,Desserts,Bengaluru,3.9,37
+R007,Restaurant_7,Indian,Hyderabad,3.1,10
+R008,Restaurant_8,Italian,Chennai,4.9,26
+R009,Restaurant_9,Fast Food,Bengaluru,4.4,22
+R010,Restaurant_10,Fast Food,Mumbai,4.9,13
+R011,Restaurant_11,Desserts,Chennai,3.3,16
+R012,Restaurant_12,Healthy,Chennai,4.7,26
+R013,Restaurant_13,Italian,Hyderabad,4.6,18
+R014,Restaurant_14,Italian,Delhi,4.3,13
+R015,Restaurant_15,Indian,Delhi,4.2,28
+R016,Restaurant_16,Italian,Hyderabad,3.5,10
+R017,Restaurant_17,Chinese,Hyderabad,4.6,19
+R018,Restaurant_18,Healthy,Hyderabad,3.9,13
+R019,Restaurant_19,Indian,Delhi,3.0,18
+R020,Restaurant_20,Chinese,Hyderabad,3.5,22
+R021,Restaurant_21,Desserts,Bengaluru,4.9,23
+R022,Restaurant_22,Fast Food,Chennai,4.7,19
+R023,Restaurant_23,Desserts,Chennai,5.0,15
+R024,Restaurant_24,Fast Food,Mumbai,4.2,25
+R025,Restaurant_25,Desserts,Mumbai,3.3,15
+R026,Restaurant_26,Italian,Chennai,3.2,26
+R027,Restaurant_27,Chinese,Bengaluru,3.2,19
+R028,Restaurant_28,Fast Food,Delhi,2.8,27
+R029,Restaurant_29,Indian,Delhi,3.7,36
+R030,Restaurant_30,Chinese,Bengaluru,3.2,31
+R031,Restaurant_31,Indian,Delhi,3.7,27
+R032,Restaurant_32,Chinese,Hyderabad,4.9,12
+R033,Restaurant_33,Chinese,Chennai,3.7,29
+R034,Restaurant_34,Desserts,Chennai,4.7,36
+R035,Restaurant_35,Fast Food,Bengaluru,4.1,30
+R036,Restaurant_36,Fast Food,Delhi,3.3,40
+R037,Restaurant_37,Chinese,Mumbai,3.6,34
+R038,Restaurant_38,Italian,Mumbai,3.0,37
+R039,Restaurant_39,Italian,Delhi,3.5,24
+R040,Restaurant_40,Indian,Mumbai,4.3,24
+R041,Restaurant_41,Indian,Bengaluru,,13
+R042,Restaurant_42,Desserts,Bengaluru,3.3,38
+R043,Restaurant_43,Chinese,Delhi,3.6,36
+R044,Restaurant_44,Indian,Mumbai,5.0,18
+R045,Restaurant_45,Indian,Bengaluru,4.5,36
+R046,Restaurant_46,Healthy,Bengaluru,4.4,35
+R047,Restaurant_47,Chinese,Hyderabad,3.1,28
+R048,Restaurant_48,Desserts,Hyderabad,4.5,33
+R049,Restaurant_49,Indian,Bengaluru,4.5,37
+R050,Restaurant_50,Desserts,Delhi,4.1,26
+R051,Restaurant_51,Fast Food,Chennai,5.0,20
+R052,Restaurant_52,Desserts,Chennai,3.5,34
+R053,Restaurant_53,Italian,Bengaluru,4.9,18
+R054,Restaurant_54,Italian,Bengaluru,4.8,19
+R055,Restaurant_55,Desserts,Bengaluru,2.8,27
+R056,Restaurant_56,Italian,Delhi,3.8,29
+R057,Restaurant_57,Fast Food,Hyderabad,4.9,22
+R058,Restaurant_58,Chinese,Bengaluru,3.0,17
+R059,Restaurant_59,Italian,Bengaluru,4.0,16
+R060,Restaurant_60,Italian,Mumbai,5.0,26
+R061,Restaurant_61,Desserts,Delhi,4.0,30
+R062,Restaurant_62,Fast Food,Bengaluru,3.2,32
+R063,Restaurant_63,Chinese,Mumbai,4.1,24
+R064,Restaurant_64,Desserts,Chennai,3.2,29
+R065,Restaurant_65,Desserts,Bengaluru,3.9,24
+R066,Restaurant_66,Healthy,Bengaluru,3.0,40
+R067,Restaurant_67,Fast Food,Mumbai,4.1,10
+R068,Restaurant_68,Chinese,Delhi,3.9,34
+R069,Restaurant_69,Fast Food,Bengaluru,4.4,23
+R070,Restaurant_70,Chinese,Chennai,4.2,14
+R071,Restaurant_71,Fast Food,Bengaluru,4.0,20
+R072,Restaurant_72,Desserts,Chennai,4.3,25
+R073,Restaurant_73,Desserts,Hyderabad,3.1,11
+R074,Restaurant_74,Indian,Hyderabad,4.1,17
+R075,Restaurant_75,Italian,Chennai,3.2,20
+R076,Restaurant_76,Healthy,Delhi,4.8,38
+R077,Restaurant_77,Fast Food,Bengaluru,3.0,27
+R078,Restaurant_78,Healthy,Bengaluru,3.7,12
+R079,Restaurant_79,Indian,Hyderabad,4.3,39
+R080,Restaurant_80,Italian,Chennai,3.8,35
+R081,Restaurant_81,Fast Food,Bengaluru,3.0,10
+R082,Restaurant_82,Chinese,Bengaluru,4.0,20
+R083,Restaurant_83,Italian,Delhi,4.2,25
+R084,Restaurant_84,Desserts,Mumbai,4.3,27
+R085,Restaurant_85,Indian,Hyderabad,3.6,39
+R086,Restaurant_86,Italian,Hyderabad,4.0,25
+R087,Restaurant_87,Italian,Mumbai,3.8,32
+R088,Restaurant_88,Desserts,Bengaluru,4.3,19
+R089,Restaurant_89,Fast Food,Delhi,4.1,27
+R090,Restaurant_90,Chinese,Delhi,4.0,15
+R091,Restaurant_91,Desserts,Hyderabad,3.3,40
+R092,Restaurant_92,Chinese,Delhi,2.8,28
+R093,Restaurant_93,Fast Food,Mumbai,3.2,13
+R094,Restaurant_94,Italian,Bengaluru,3.1,36
+R095,Restaurant_95,Chinese,Mumbai,3.8,40
+R096,Restaurant_96,Indian,Chennai,4.1,22
+R097,Restaurant_97,Indian,Hyderabad,3.3,33
+R098,Restaurant_98,Desserts,Delhi,4.9,23
+R099,Restaurant_99,Fast Food,Chennai,2.8,12
+R100,Restaurant_100,Desserts,Delhi,4.5,19
