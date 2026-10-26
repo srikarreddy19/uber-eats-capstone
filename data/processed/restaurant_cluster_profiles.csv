@@ -1,0 +1,4 @@
+restaurant_kmeans_cluster,total_orders,revenue,cancellation_rate,average_rating,average_preparation_time,average_delivery_time
+0,92.23,56946.21,0.1,3.94,18.77,63.48
+1,100.0,64583.93,0.08,3.71,32.64,77.2
+2,108.96,70570.28,0.08,4.23,18.35,62.33

@@ -1,0 +1,27 @@
+
+Customer Segmentation
+Selected K: 2
+Silhouette scores: {2: 0.24769471708956559, 3: 0.16534485235061938, 4: 0.1569382841729536, 5: 0.15786291214858095, 6: 0.1485896733444535}
+DBSCAN silhouette (excluding noise): nan
+Business names: {0: 'High-Value Frequent', 1: 'Lower-Value'}
+Cluster profile:
+                         total_orders  average_order_value  ...  ordering_frequency  average_rating_given
+customer_kmeans_cluster                                     ...                                          
+0                               11.46               741.75  ...                2.36                  2.32
+1                                6.93               710.46  ...                1.60                  2.32
+
+[2 rows x 7 columns]
+
+Restaurant Segmentation
+Selected K: 3
+Silhouette scores: {2: 0.24166266754937157, 3: 0.2582529698988019, 4: 0.25126324125076865, 5: 0.22414308568356822, 6: 0.2167193230209844}
+DBSCAN silhouette (excluding noise): 0.2100595200923506
+Business names: {0: 'Lower-Value', 1: 'High-Value Frequent', 2: 'High-Value Frequent'}
+Cluster profile:
+                           total_orders   revenue  ...  average_preparation_time  average_delivery_time
+restaurant_kmeans_cluster                          ...                                                 
+0                                 92.23  56946.21  ...                     18.77                  63.48
+1                                100.00  64583.93  ...                     32.64                  77.20
+2                                108.96  70570.28  ...                     18.35                  62.33
+
+[3 rows x 6 columns]

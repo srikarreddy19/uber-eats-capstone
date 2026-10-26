@@ -1,0 +1,3 @@
+customer_kmeans_cluster,total_orders,average_order_value,total_spending,weekend_orders,late_night_orders,ordering_frequency,average_rating_given
+0,11.46,741.75,8461.42,3.44,3.59,2.36,2.32
+1,6.93,710.46,4881.22,1.93,1.94,1.6,2.32
