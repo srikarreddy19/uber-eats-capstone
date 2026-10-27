@@ -1,0 +1,31 @@
+DAY 3 - CUSTOMER REVIEW SENTIMENT ANALYSIS
+
+Supervised model: Linear SVM
+Test accuracy: 1.0000
+
+              precision    recall  f1-score   support
+
+    negative       1.00      1.00      1.00       693
+     neutral       1.00      1.00      1.00       219
+    positive       1.00      1.00      1.00       225
+
+    accuracy                           1.00      1137
+   macro avg       1.00      1.00      1.00      1137
+weighted avg       1.00      1.00      1.00      1137
+
+
+Confusion matrix (negative, neutral, positive):
+[[693   0   0]
+ [  0 219   0]
+ [  0   0 225]]
+
+VADER accuracy against rating-derived labels: 0.6805
+
+Top terms in negative reviews:
+late, long, delivery, food, food arrived, arrived late, cold, late cold, arrived, took, took long, delivery took, disappointing delivery, disappointing, service long
+
+Top terms in positive reviews:
+food, delivery, service, packaging, loved, loved food, food packaging, experience perfect, experience, excellent experience, excellent, perfect, quick delivery, great, great food
+
+Note: sentiment labels are derived from ratings (1-2 negative, 3 neutral, 4-5 positive).
+VADER is a lexicon-based comparison, not a trained model.
