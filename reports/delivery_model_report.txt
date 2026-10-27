@@ -1,0 +1,16 @@
+DAY 4 - DELIVERY TIME PREDICTION
+
+Rows used: 8831
+Features used: delivery_distance_km, order_amount, num_items, avg_preparation_time, restaurant_rating, order_hour, day_of_week, is_weekend, traffic_condition, weather, category, customer_kmeans_cluster
+
+           model       MAE      RMSE        R2  CV_MAE_3fold
+Ridge Regression  3.238544  4.088424  0.952712      3.252606
+Lasso Regression  3.281645  4.151683  0.951237      3.274793
+   Random Forest  3.636022  4.562140  0.941119      3.661005
+ Baseline Median 15.323713 18.801964 -0.000104     14.499450
+
+Recommended model by lowest test MAE: Ridge Regression
+Test MAE: 3.239 minutes
+
+Feature importance is calculated from the Random Forest model.
+Synthetic data results may not generalize to real deliveries.
