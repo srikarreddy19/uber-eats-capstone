@@ -1,0 +1,25 @@
+UBER EATS HOURLY DEMAND FORECASTING
+
+Historical start: 2026-01-01 00:00:00
+Historical end: 2026-06-29 22:00:00
+Hourly observations: 4319
+Training observations: 3455
+Test observations: 864
+
+Model comparison (chronological test set):
+  model      MAE     RMSE  MAPE_nonzero_pct
+Prophet 1.207586 1.522916         51.038877
+  ARIMA 1.211646 1.511081         52.377743
+
+Selected model by lowest MAE: Prophet
+Highest average demand hour: 21:00
+Highest average demand weekday: Thursday
+Forecast horizon: 168 hours (7 days)
+Expected total orders over forecast horizon: 389
+
+Business interpretation:
+- Prioritize staffing and delivery capacity around 21:00, the highest average-demand hour in the historical data.
+- Review demand patterns on Thursday when planning restaurant and driver availability.
+- Use the hourly forecast to plan staffing and operational capacity.
+- Forecasts are estimates based on synthetic historical orders; validate against real demand before operational use.
+- MAPE is calculated only where actual demand is nonzero.

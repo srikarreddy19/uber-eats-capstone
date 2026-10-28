@@ -1,0 +1,7 @@
+Original series ADF statistic: -65.6141
+Original series p-value: 0.000000
+Original stationary (p < 0.05): True
+
+First-differenced ADF statistic: -20.2597
+First-differenced p-value: 0.000000
+Differenced stationary (p < 0.05): True
